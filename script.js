@@ -1,4 +1,4 @@
-//local storage
+//local_storage
 
 var form = document.getElementById('form');
 form.addEventListener('submit', function(event){
